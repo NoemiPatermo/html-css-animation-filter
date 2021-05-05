@@ -73,4 +73,10 @@
 }
 .ex-7-img:hover{
     filter: sepia(6) brightness(100%);
+    transition-duration: 3s;
+}
+.ex-8-img:hover{
+    transition-delay: 3s;
+    border-radius: 30px;
+    filter: brightness(100%) contrast(100%);
 }
