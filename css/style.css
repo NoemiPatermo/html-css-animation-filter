@@ -68,6 +68,29 @@
     height: 20px;
 }
 /* START ESERCIZIO */
+.ex-1-square:hover{
+transition:2s;
+background-color: red;
+}
+.ex-2-square:active{
+    transition-duration: 20s;
+    width: 500px;
+}
+.ex-3-square:hover{
+    border-radius: 100px;
+    transition-duration: 20s;
+}
+.ex-4-square:hover{
+    transition-duration: 2s;
+    opacity: 0;
+}
+.ex-5-square:hover{
+    height: 100px;
+    width: 100px;
+    margin: 0;
+}
+
+
 .ex-6-img:hover{
     filter: grayscale(1);
 }
@@ -76,7 +99,7 @@
     transition-duration: 3s;
 }
 .ex-8-img:hover{
-    transition-delay: 3s;
+    transition-duration: 3s;
     border-radius: 30px;
-    filter: brightness(100%) contrast(100%);
+    filter: brightness(50%) contrast(100%);
 }
