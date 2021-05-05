@@ -67,3 +67,7 @@
     width: 60px;
     height: 20px;
 }
+/* START ESERCIZIO */
+.ex-6-img:hover{
+    filter: grayscale(100%);
+}
