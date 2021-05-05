@@ -73,12 +73,12 @@ transition:2s;
 background-color: red;
 }
 .ex-2-square:active{
-    transition-duration: 20s;
+    transition-duration: 10s;
     width: 500px;
 }
 .ex-3-square:hover{
     border-radius: 100px;
-    transition-duration: 20s;
+    transition-duration: 10s;
 }
 .ex-4-square:hover{
     transition-duration: 2s;
