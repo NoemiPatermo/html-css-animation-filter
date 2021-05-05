@@ -69,5 +69,5 @@
 }
 /* START ESERCIZIO */
 .ex-6-img:hover{
-    filter: grayscale(100%);
+    filter: grayscale(1);
 }
